@@ -1,6 +1,6 @@
 streamlit
 nltk
-sklearn
+scikit-learn
 fuzzywuzzy
 distance
 bs4
