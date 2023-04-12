@@ -1,6 +1,7 @@
 streamlit
 scikit-learn
 nltk
+stopwords
 fuzzywuzzy
 distance
 bs4
