@@ -1,6 +1,6 @@
 streamlit
 scikit-learn
-nltk.corpus
+nltk
 fuzzywuzzy
 distance
 bs4
