@@ -1,0 +1,7 @@
+streamlit
+pickle
+scikit-learn
+nltk.corpus
+fuzzywuzzy
+distance
+bs4
