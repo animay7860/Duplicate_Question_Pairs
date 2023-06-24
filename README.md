@@ -1,6 +1,8 @@
 # quora-question-pairs
 A NLP project to find weather given 2 questions are same are not semantically speaking.
 
+HuggingFace Space: https://huggingface.co/spaces/animay620/Duplicate_Questions_Pairs
+
 Dataset Link - https://www.kaggle.com/c/quora-question-pairs
 
 Some of the Examples for Duplicate or Non-Duplicate pairs
